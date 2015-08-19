@@ -1,3 +1,7 @@
+# This is a fork to illustrate how to develop an Hello World Plugin
+
+Please, this branch is just to illustrate how to develop an Hello World Plugin.
+For furthermore information, please do read our blog post: [Become a King with an « HelloWorld » Kong plugin](http://streamdata.io/blog/developing-an-helloworld-kong-plugin/)
 # KONG: Microservice Management Layer
 
 [![Build Status][travis-badge]][travis-url]

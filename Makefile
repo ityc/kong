@@ -59,6 +59,9 @@ test-integration:
 test-plugins:
 	@busted -v spec/plugins
 
+test-myplugin:
+		@busted -v spec/plugins/helloworld
+		
 test-all:
 	@busted -v spec/
 

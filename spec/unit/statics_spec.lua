@@ -55,6 +55,7 @@ plugins_available:
   - requestsizelimiting
   - ip_restriction
   - mashape-analytics
+  - helloworld
 
 ## The Kong working directory
 ## (Make sure you have read and write permissions)
